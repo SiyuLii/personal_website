@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docsfile
+
+website:
+  title: "Siyu Li"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Siyu Li's CV
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
