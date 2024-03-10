@@ -2,8 +2,4 @@
 
 ---
 
-I am Siyu Li, student from University of Toronto. I am from ShenZhen, China.
-
-```{r}
-1 + 1
-```
+I am Siyu Li, student from University of Toronto. I am from ShenZhen, China. I am a student of University of Toronto. 
