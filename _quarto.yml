@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Siyu Li's CV
-        text: CV
+      - text: "CV"
+        href: Siyu Li's CV
 
 format:
   html:
