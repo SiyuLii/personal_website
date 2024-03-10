@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docsfile
+  output-dir: docs
 
 website:
   title: "Siyu Li"
